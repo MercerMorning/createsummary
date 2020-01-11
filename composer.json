@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "createsummary\\": "vendor/createsummary/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+
+    }
+}
