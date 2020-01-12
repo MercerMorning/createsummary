@@ -6,19 +6,11 @@ use createsummary\App;
 
 use createsummary\base\Controller;
 
-class MainController extends Controller{
+class LoginController extends Controller{
 
 
     public function indexAction(){
     }
 
-    public function signupAction(){
-
-    }
-
-    public function loginAction(){
-      
-    }
-
-
 }
+?>
